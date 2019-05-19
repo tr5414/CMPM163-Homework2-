@@ -1,0 +1,8 @@
+#if !defined(LOOKING_THROUGH_WATER_INCLUDED)
+#define LOOKING_THROUGH_WATER_INCLUDED
+
+float3 ColorBelowWater () {
+	return 0;
+}
+
+#endif
